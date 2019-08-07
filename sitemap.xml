@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://chrisroggi.com/</loc>
+    <loc>http://chrisroggi.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chrisroggi.com/tags/</loc>
+    <loc>http://chrisroggi.com/tags/</loc>
     <priority>0</priority>
   </url>
   
